@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on real world projects
 - 📫 How to reach me email: singhjayant1805@gmail.com
 - 😄 Pronouns: Jaycodes
-- ⚡ Fun fact: i am a freshman at MNIT Jaipur
+- ⚡ Fun fact: i am a freshman at MNIT Jaipur in CSE.
 
 <!---
 SinghJayant18/SinghJayant18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
