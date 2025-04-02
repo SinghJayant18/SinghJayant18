@@ -1,6 +1,4 @@
-Here’s a **professional GitHub introduction** you can use for your profile **README.md**:  
 
----
 
 ## **👋 Hi, I'm Jayant!**  
 
@@ -13,16 +11,7 @@ Here’s a **professional GitHub introduction** you can use for your profile **R
 - **⚙️ Software Development** (Python, C++, Data Structures & Algorithms)  
 
 ### **📚 Tech Stack & Tools:**  
-💻 **Languages:** Python, C++, Java, SQL  
-📊 **ML/DL Frameworks:** TensorFlow, PyTorch, Scikit-Learn  
-🛡 **Cybersecurity Tools:** IDS, Adversarial Attack Simulations  
-🚀 **Other Tools:** Git, Docker, Linux, OpenAI APIs  
-
-### **📫 Let's Connect!**  
-💼 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-📧 **Email:** your-email@example.com  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-
----
-
-Would you like any modifications or additions based on your latest projects? 🚀
+💻 **Languages:** Python, C++, C 
+📊 **ML/DL Frameworks:** Scikit-Learn  
+DATA STRUCTURES AND ALGORITHMS
+HTML AND CSS .
